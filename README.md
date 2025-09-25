@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Carlos Candelaria</h1>
 <h3 align="center">Soy un estudiante en Ciberseguridad apasionado por lo videosjuegos</h3>
 
-<h2 align="left">Actualmente sigo estudiando mas lenguajes y como utilizar mas herramientas. Estoy altamente interesados en proyectos que usen el lenguaje de programación de Java:</h2>
+<h1 align="left">Actualmente sigo estudiando mas lenguajes y como utilizar mas herramientas. Estoy altamente interesados en proyectos que usen el lenguaje de programación de Java:</h1>
 <p align="left">
 </p>
 
